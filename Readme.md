@@ -162,7 +162,7 @@ Sentiment Analysis Project/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com//YOUR_REPOSITORY.git
+git clonehttps://github.com/akashbulids/mcdonalds-sentiment-analysis/edit/main/Readme.md
 ```
 
 Replace the placeholders with your actual GitHub username and repository name.
@@ -170,7 +170,7 @@ Replace the placeholders with your actual GitHub username and repository name.
 ### Step 2: Navigate to the Project
 
 ```bash
-cd YOUR_REPOSITORY
+cd https://github.com/akashbulids/mcdonalds-sentiment-analysis/edit/main/Readme.md
 ```
 
 ### Step 3: Create a Virtual Environment
